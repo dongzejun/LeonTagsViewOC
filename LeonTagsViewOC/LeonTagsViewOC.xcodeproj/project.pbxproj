@@ -22,7 +22,6 @@
 		35B71B871FB15DA50079FF47 /* LeonTestLeonTagsViewController.xib in Sources */ = {isa = PBXBuildFile; fileRef = 35B71B7C1FB154100079FF47 /* LeonTestLeonTagsViewController.xib */; };
 		35B71B881FB15DAB0079FF47 /* LeonTestLeonTagsViewController.h in Sources */ = {isa = PBXBuildFile; fileRef = 35B71B7A1FB1540F0079FF47 /* LeonTestLeonTagsViewController.h */; };
 		35B71B891FB15DD60079FF47 /* LeonTestLeonTagsViewXIBCell.xib in Sources */ = {isa = PBXBuildFile; fileRef = 35B71B7D1FB154100079FF47 /* LeonTestLeonTagsViewXIBCell.xib */; };
-		35B71B8A1FB1B03E0079FF47 /* LeonTagsViewOCTests.xctest in Sources */ = {isa = PBXBuildFile; fileRef = 35B71B1B1FB150660079FF47 /* LeonTagsViewOCTests.xctest */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -311,7 +310,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				35B71B8A1FB1B03E0079FF47 /* LeonTagsViewOCTests.xctest in Sources */,
 				35B71B891FB15DD60079FF47 /* LeonTestLeonTagsViewXIBCell.xib in Sources */,
 				35B71B881FB15DAB0079FF47 /* LeonTestLeonTagsViewController.h in Sources */,
 				35B71B871FB15DA50079FF47 /* LeonTestLeonTagsViewController.xib in Sources */,
