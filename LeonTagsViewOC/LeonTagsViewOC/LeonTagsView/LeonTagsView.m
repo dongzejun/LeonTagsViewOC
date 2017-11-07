@@ -26,7 +26,6 @@
     self = [super initWithFrame:frame];
     if (self) {
         [self initViewAttributes];
-//        self.backgroundColor = KRANDOM_COLOR;
     }
     return self;
 }
@@ -36,7 +35,6 @@
     if (self) {
         [self initViewAttributes];
         NSLog(@"x = %f, y = %f, width = %f, height = %f", self.frame.origin.x, self.frame.origin.y, self.frame.size.width, self.frame.size.height);
-//        self.backgroundColor = KRANDOM_COLOR;
     }
     return self;
 }
