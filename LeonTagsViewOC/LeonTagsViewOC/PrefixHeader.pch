@@ -1,0 +1,24 @@
+//
+//  PrefixHeader.pch
+//  LeonCommonFunctionsDemo
+//
+//  Created by Leon on 2016/12/1.
+//  Copyright © 2016年 Leon. All rights reserved.
+//
+
+//#import "LeonCommonFunctionsDemo-Swift.h"
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#define KSCREEN_WIDTH [UIScreen mainScreen].bounds.size.width
+#define KSCREEN_HIGHT [UIScreen mainScreen].bounds.size.height
+#define KRANDOM_COLOR [UIColor colorWithRed:arc4random_uniform(255) / 255.0 green:arc4random_uniform(255) / 255.0 blue:arc4random_uniform(255) / 255.0 alpha:1.0]
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* PrefixHeader_pch */
+
+
+
