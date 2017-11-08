@@ -90,8 +90,8 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "LeonTagsViewOC", "LeonTagsViewOC/**/*.{h,m}"
-  s.exclude_files = "LeonTagsViewOC/Exclude"
+  s.source_files  = "LeonTagsViewOC/Classes/**/*”
+  #s.exclude_files = "LeonTagsViewOC/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
 
