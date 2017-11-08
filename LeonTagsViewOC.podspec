@@ -91,7 +91,7 @@ Pod::Spec.new do |s|
   #
 
   s.source_files  = "LeonTagsViewOC/Classes/**/*”
-  #s.exclude_files = "LeonTagsViewOC/Exclude"
+  s.exclude_files = "LeonTagsViewOC/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
 
